@@ -1,0 +1,132 @@
+body {
+    background-color: #f9d237;
+    background-image: url('Images/BUTTERLogo.png');
+}
+
+main {
+    background-color:#f7db39bb;
+}
+
+div {
+    width: 100%;
+}
+
+.div2 {
+    width: 100%;
+    float:left; 
+    height: 200px;
+}
+
+section {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+p {
+  color: #000000;
+  font-family: fantasy;
+  font-size: 100%;
+  margin-left: 40px;
+}
+
+.p1 {
+    color: #000000;
+    font-family: fantasy;
+    font-size: 100%;
+  }
+
+img{
+    margin-top: 60px;
+    display: block;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imgForm1 {
+    border-radius: 1%; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 500px;
+    height: 500px;
+}
+
+.imgForm2 {
+    border-radius: 1%; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 500px;
+    width: 50%;
+    float:left;
+    height:50%
+}
+
+.TextFont1 {
+  color:#ffffff;
+  font-family: fantasy;
+  font-size: 30px;
+  text-align: center;
+  font-weight: normal;
+}
+
+.TextFont2 {
+  color:#ffffff;
+  font-family: fantasy;
+  font-size: 50px;
+  -webkit-text-stroke: 1px#f7d939;
+  font-weight: normal;
+}
+
+.h11 {
+    font-family: 'Lucida Sans'; 
+    color: #ffffff;
+}
+
+.list-group {
+    margin-left: 40px;
+    width: 200px;
+}
+
+.form-label {
+    color:#ffffff;
+    font-family: fantasy;
+    font-size: 30px;
+    text-align: center;
+    font-weight: normal;
+}
+
+.form-check-label {
+    color:#ffffff;
+    font-family: fantasy;
+    font-size: 30px;
+    text-align: center;
+    font-weight: normal;
+}
+
+.form-control {
+    width: 70%
+}
+
+.button {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: #000000;
+    border: 1px solid #ffffff;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
